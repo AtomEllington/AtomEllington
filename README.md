@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtomEllington
+- 👋 Hi, I’m @Atom
 - 👀 I’m interested in learning how to code and use this site
 - 🌱 I’m currently learning Advanced Python Topics 
 
