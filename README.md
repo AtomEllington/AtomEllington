@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atom( Adam)
-- Bay area high school student 
-- EHS class of 2023
+- Bay area college student
+
 
 
 <!---
